@@ -33,5 +33,3 @@ def main():
         ig.download_profile(username , profile_pic=True)
     except:
         print(f'\n {Re}!This is a private account!')
-
-main()
